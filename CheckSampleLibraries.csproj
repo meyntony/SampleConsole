@@ -8,7 +8,8 @@
   </PropertyGroup>
 
   <ItemGroup>
-    <PackageReference Include="SampleLibrary2" Version="1.0.0" />
+    <PackageReference Include="SampleLibrary1" Version="3.0.0" />
+    <PackageReference Include="SampleLibrary2" Version="2.0.0" />
   </ItemGroup>
 
 </Project>
